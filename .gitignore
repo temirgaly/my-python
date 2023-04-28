@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore env
+venv/
+
+# ignore vs code conf
+ .vscode/
